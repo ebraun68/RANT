@@ -1,2 +1,2 @@
 # RANT
-RANT (Reconciliation of Avian NCBI Taxonomy)
+Reconciliation of Avian NCBI Taxonomy
