@@ -1,0 +1,4176 @@
+   530 bird genomes
+
+1. Hirundo rustica
+Hirundo rustica overview
+Kingdom: Eukaryota
+Chromosomes: 39
+Genome ID: 73420
+
+2. Aquila chrysaetos
+Aquila chrysaetos overview
+Kingdom: Eukaryota
+Chromosomes: 28
+Genome ID: 32031
+
+3. Phylloscopus trochiloides
+Phylloscopus trochiloides overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 45123
+
+4. Phylloscopus trochilus
+Phylloscopus trochilus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 14562
+
+5. Pogoniulus pusillus
+Pogoniulus pusillus overview
+Kingdom: Eukaryota
+Chromosomes: 46
+Organelles: 1
+Genome ID: 96564
+
+6. Lycocorax pyrrhopterus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 95299
+
+7. Columba janthina
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 94325
+
+8. Uria aalge
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92871
+
+9. Melospiza melodia
+Melospiza melodia overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 87752
+
+10. Megadyptes antipodes
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 87070
+
+11. Apteryx mantelli
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 86591
+
+12. Eremophila alpestris
+Eremophila alpestris overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 86403
+
+13. Malurus cyaneus
+
+Kingdom: Eukaryota
+Chromosomes: 25
+Organelles: 1
+Genome ID: 86232
+
+14. Limosa lapponica
+Limosa lapponica overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 66440
+
+15. Saxicola maurus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 61239
+
+16. Strix occidentalis
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Organelles: 1
+Genome ID: 58928
+
+17. Himantopus himantopus
+Himantopus himantopus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 55861
+
+18. Patagioenas fasciata
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 53567
+
+19. Lagopus muta
+Lagopus muta overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 53233
+
+20. Tympanuchus cupido
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 50144
+
+21. Setophaga coronata
+
+Kingdom: Eukaryota
+Chromosomes: 31
+Organelles: 1
+Genome ID: 46404
+
+22. Lonchura striata
+Lonchura striata overview
+Kingdom: Eukaryota
+Chromosomes: 31
+Organelles: 1
+Genome ID: 43765
+
+23. Motacilla alba
+Motacilla alba overview
+Kingdom: Eukaryota
+Chromosomes: 31
+Organelles: 1
+Genome ID: 43097
+
+24. Zosterops lateralis
+Zosterops lateralis overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 40104
+
+25. Fringilla coelebs
+Fringilla coelebs overview
+Kingdom: Eukaryota
+Chromosomes: 30
+Genome ID: 34546
+
+26. Buceros rhinoceros
+Buceros rhinoceros overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 32403
+
+27. Chlamydotis undulata
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 32036
+
+28. Phoenicopterus ruber
+Phoenicopterus ruber overview
+Kingdom: Eukaryota
+Chromosomes: 33
+Genome ID: 31928
+
+29. Tyto alba
+Tyto alba overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 31927
+
+30. Anser cygnoides
+Anser cygnoides overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Organelles: 1
+Genome ID: 31397
+
+31. Lyrurus tetrix
+Lyrurus tetrix overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 31278
+
+32. Corvus cornix
+Corvus cornix overview
+Kingdom: Eukaryota
+Chromosomes: 29
+Organelles: 1
+Genome ID: 18230
+
+33. Balearica regulorum
+Balearica regulorum overview
+Kingdom: Eukaryota
+Chromosomes: 37
+Organelles: 1
+Genome ID: 17144
+
+34. Accipiter gentilis
+Accipiter gentilis overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 8812
+
+35. Cairina moschata
+Cairina moschata overview
+Kingdom: Eukaryota
+Chromosomes: 30
+Genome ID: 8552
+
+36. Acrocephalus scirpaceus
+Acrocephalus scirpaceus
+Kingdom: Eukaryota
+Chromosomes: 31
+Genome ID: 8422
+
+37. Anas platyrhynchos
+The mallard is a globally distributed duck that breeds in fresh water
+Kingdom: Eukaryota
+Chromosomes: 41
+Organelles: 1
+Genome ID: 2793
+
+38. Struthio camelus
+The ostrich is a ratite and the largest living bird
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Organelles: 1
+Genome ID: 122
+
+39. Gallus gallus
+The red junglefowl or domestic chicken
+Kingdom: Eukaryota
+Chromosomes: 41
+Organelles: 1
+Genome ID: 111
+
+40. Fratercula arctica
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 105038
+
+41. Alectoris rufa
+Alectoris rufa overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 104712
+
+42. Lagopus leucura
+Lagopus leucura overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 104568
+
+43. Cygnus buccinator
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 104529
+
+44. Centrocercus urophasianus
+Centrocercus urophasianus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 104528
+
+45. Butorides virescens
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 103945
+
+46. Diglossa brunneiventris
+
+Kingdom: Eukaryota
+Chromosomes: 31
+Genome ID: 103900
+
+47. Motacilla tschutschensis
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 103465
+
+48. Amblyornis subalaris
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 103402
+
+49. Certhia americana
+
+Kingdom: Eukaryota
+Chromosomes: 24
+Genome ID: 103027
+
+50. Caprimulgus europaeus
+Caprimulgus europaeus overview
+Kingdom: Eukaryota
+Chromosomes: 37
+Genome ID: 101473
+
+
+51. Pluvialis apricaria
+Pluvialis apricaria overview
+Kingdom: Eukaryota
+Chromosomes: 38
+Organelles: 1
+Genome ID: 100067
+
+52. Corvus kubaryi
+Corvus kubaryi overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 100064
+
+53. Zosterops japonicus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 100061
+
+54. Phylloscopus whistleri
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 99979
+
+55. Agelaius tricolor
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 99115
+
+56. Pyrrhura cruentata
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 97747
+
+57. Lamprotornis superbus
+Lamprotornis superbus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 97173
+
+58. Colaptes auratus
+
+Kingdom: Eukaryota
+Chromosomes: 12
+Genome ID: 96575
+
+59. Pyrrhura lepida
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 96487
+
+60. Haliaeetus pelagicus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 94327
+
+61. Fratercula cirrhata
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 94326
+
+62. Coloeus monedula
+
+Kingdom: Eukaryota
+Chromosomes: 29
+Genome ID: 93095
+
+63. Elachura formosa
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92937
+
+64. Acrocephalus arundinaceus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92936
+
+65. Cercotrichas coryphoeus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92935
+
+66. Certhia familiaris
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92934
+
+67. Asarcornis scutulata
+Asarcornis scutulata RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92933
+
+68. Pheucticus melanocephalus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92932
+
+69. Nothocercus nigrocapillus
+Nothocercus nigrocapillus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92931
+
+70. Nothoprocta pentlandii
+Nothoprocta pentlandii RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92930
+
+71. Chionis minor
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92929
+
+72. Promerops cafer
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92928
+
+73. Steatornis caripensis
+Steatornis caripensis RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92927
+
+74. Climacteris rufus
+Climacteris rufus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92926
+
+75. Aegotheles bennettii
+Aegotheles bennettii RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92925
+
+76. Struthidea cinerea
+Struthidea cinerea RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92924
+
+77. Melanocharis versteri
+Melanocharis versteri RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92923
+
+78. Aleadryas rufinucha
+Aleadryas rufinucha RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92922
+
+79. Orthonyx spaldingii
+Orthonyx spaldingii RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92921
+
+80. Eulacestoma nigropectus
+Eulacestoma nigropectus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92920
+
+81. Cnemophilus loriae
+Cnemophilus loriae RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92919
+
+82. Calcarius ornatus
+Calcarius ornatus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92918
+
+83. Donacobius atricapilla
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92917
+
+84. Leucopsar rothschildi
+Leucopsar rothschildi overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92916
+
+85. Thryothorus ludovicianus
+Thryothorus ludovicianus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92915
+
+86. Irena cyanogastra
+Irena cyanogastra RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92914
+
+87. Edolisoma coerulescens
+Edolisoma coerulescens RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92913
+
+88. Sterrhoptilus dennistouni
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92912
+
+89. Rhabdornis inornatus
+Rhabdornis inornatus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92911
+
+90. Pachycephala philippinensis
+Pachycephala philippinensis RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92910
+
+91. Oceanodroma tethys
+Hydrobates tethys RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92909
+
+92. Myiagra hebetior
+Myiagra hebetior RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92908
+
+93. Dicaeum eximium
+Dicaeum eximium RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92907
+
+94. Baryphthengus martii
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92906
+
+95. Bucco capensis
+Bucco capensis RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92905
+
+96. Stercorarius parasiticus
+Stercorarius parasiticus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92904
+
+97. Loxia leucoptera
+Loxia leucoptera RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92903
+
+98. Hemiprocne comata
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92902
+
+99. Psilopogon haemacephalus
+Psilopogon haemacephalus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92901
+
+100. Corythaeola cristata
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92900
+
+
+101. Ciccaba nigrolineata
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92899
+
+102. Sclerurus mexicanus
+Sclerurus mexicanus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92898
+
+103. Grallaria varia
+Grallaria varia RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92897
+
+104. Sakesphorus luctuosus
+Sakesphorus luctuosus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92896
+
+105. Eubucco bourcierii
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92895
+
+106. Campylorhamphus procurvoides
+Campylorhamphus procurvoides RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92894
+
+107. Penelope pileata
+Penelope pileata RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92893
+
+108. Oceanites oceanicus
+Oceanites oceanicus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92892
+
+109. Nyctibius bracteatus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92891
+
+110. Rhodinocichla rosea
+Rhodinocichla rosea RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92890
+
+111. Ptilorrhoa leucosticta
+Ptilorrhoa leucosticta RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92889
+
+112. Chaetorhynchus papuensis
+Chaetorhynchus papuensis RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92888
+
+113. Smithornis capensis
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92887
+
+114. Anhinga anhinga
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92886
+
+115. Ardeotis kori
+Ardeotis kori RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92885
+
+116. Spizella passerina
+Spizella passerina RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92884
+
+117. Ceyx cyanopectus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92883
+
+118. Balaeniceps rex
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92882
+
+119. Glareola pratincola
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92881
+
+120. Brachypteracias leptosomus
+Brachypteracias leptosomus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92880
+
+121. Urocolius indicus
+Urocolius indicus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92879
+
+122. Pteruthius melanotis
+Pteruthius melanotis RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92878
+
+123. Xiphorhynchus elegans
+Xiphorhynchus elegans RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92877
+
+124. Cettia cetti
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92876
+
+125. Calonectris borealis
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92875
+
+126. Passerina amoena
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92874
+
+127. Cepphus grylle
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92873
+
+128. Horornis vulcanius
+Horornis vulcanius RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92872
+
+129. Rissa tridactyla
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92870
+
+130. Atrichornis clamosus
+Atrichornis clamosus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92869
+
+131. Drymodes brunneopygia
+Drymodes brunneopygia RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92868
+
+132. Turnix velox
+Turnix velox RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92867
+
+133. Pardalotus punctatus
+Pardalotus punctatus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92866
+
+134. Thalassarche chlororhynchos
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92865
+
+135. Buphagus erythrorhynchus
+Buphagus erythrorhynchus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92864
+
+136. Zapornia atra
+Zapornia atra RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92863
+
+137. Pluvianellus socialis
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92862
+
+138. Centropus bengalensis
+Centropus bengalensis RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92861
+
+139. Chaetops frenatus
+Chaetops frenatus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92860
+
+140. Pelecanoides urinatrix
+Pelecanoides urinatrix RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92859
+
+141. Pomatostomus ruficeps
+Pomatostomus ruficeps RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92858
+
+142. Oxylabes madagascariensis
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92857
+
+143. Neodrepanis coruscans
+Neodrepanis coruscans RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92856
+
+144. Mystacornis crossleyi
+Mystacornis crossleyi RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92855
+
+145. Syrrhaptes paradoxus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92854
+
+146. Hypocryptadius cinnamomeus
+Hypocryptadius cinnamomeus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92853
+
+147. Peucedramus taeniatus
+Peucedramus taeniatus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92852
+
+148. Scopus umbretta
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92851
+
+149. Chloropsis cyanopogon
+Chloropsis cyanopogon RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92850
+
+150. Erpornis zantholeuca
+Erpornis zantholeuca RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92849
+
+
+151. Tricholaema leucomelas
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92848
+
+152. Nicator chloris
+Nicator chloris RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92847
+
+153. Pycnonotus jocosus
+Pycnonotus jocosus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92846
+
+154. Scytalopus superciliaris
+Scytalopus superciliaris RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92845
+
+155. Vidua macroura
+Vidua macroura RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92844
+
+156. Thinocorus orbignyianus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92843
+
+157. Eurystomus gularis
+Eurystomus gularis RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92842
+
+158. Certhia brachydactyla
+Certhia brachydactyla RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92841
+
+159. Larus smithsonianus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92840
+
+160. Bombycilla garrulus
+Bombycilla garrulus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92839
+
+161. Rhadina sibilatrix
+Rhadina sibilatrix RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92838
+
+162. Sitta europaea
+Sitta europaea RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92837
+
+163. Oriolus oriolus
+Oriolus oriolus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92836
+
+164. Cisticola juncidis
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92835
+
+165. Aramus guarauna
+Aramus guarauna RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92834
+
+166. Phainopepla nitens
+Phainopepla nitens RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92833
+
+167. Rhinoptilus africanus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92832
+
+168. Locustella ochotensis
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92831
+
+169. Rhinopomastus cyanomelas
+Rhinopomastus cyanomelas RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92830
+
+170. Hippolais icterina
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92829
+
+171. Nycticryphes semicollaris
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92828
+
+172. Rynchops niger
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92827
+
+173. Sylvia borin
+Sylvia borin overview
+Kingdom: Eukaryota
+Chromosomes: 37
+Genome ID: 92826
+
+174. Oenanthe oenanthe
+Oenanthe oenanthe overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92825
+
+175. Ploceus nigricollis
+Ploceus nigricollis RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92824
+
+176. Cinclus mexicanus
+Cinclus mexicanus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92823
+
+177. Illadopsis cleaveri
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92822
+
+178. Serilophus lunatus
+Serilophus lunatus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92821
+
+179. Oxyruncus cristatus
+Oxyruncus cristatus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92820
+
+180. Gymnorhina tibicen
+Gymnorhina tibicen RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92819
+
+181. Semnornis frantzii
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92818
+
+182. Leptocoma aspasia
+Leptocoma aspasia RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92817
+
+183. Zosterops hypoxanthus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92816
+
+184. Podargus strigoides
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92815
+
+185. Tyrannus savana
+Tyrannus savana RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92814
+
+186. Mesembrinibis cayennensis
+Mesembrinibis cayennensis RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92813
+
+187. Formicarius rufipectus
+Formicarius rufipectus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92812
+
+188. Setophaga kirtlandii
+Setophaga kirtlandii overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92811
+
+189. Chordeiles acutipennis
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92810
+
+190. Amazona guildingii
+Amazona guildingii overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92809
+
+191. Podilymbus podiceps
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92808
+
+192. Phaetusa simplex
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92807
+
+193. Corythaixoides concolor
+Corythaixoides concolor RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92806
+
+194. Chauna torquata
+Chauna torquata RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92805
+
+195. Anthoscopus minutus
+Anthoscopus minutus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92804
+
+196. Nyctiprogne leucopyga
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92803
+
+197. Alopecoenas beccarii
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92802
+
+198. Fregetta grallaria
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92801
+
+199. Trogon melanurus
+Trogon melanurus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92800
+
+200. Ciconia maguari
+Ciconia maguari overview
+Kingdom: Eukaryota
+Chromosomes: 31
+Organelles: 1
+Genome ID: 92799
+
+
+201. Rhipidura dahli
+Rhipidura dahli RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92798
+
+202. Dicrurus megarhynchus
+Dicrurus megarhynchus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92797
+
+203. Odontophorus gujanensis
+Odontophorus gujanensis RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92796
+
+204. Psophia crepitans
+Psophia crepitans RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92795
+
+205. Chloroceryle aenea
+Chloroceryle aenea RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92794
+
+206. Ramphastos sulfuratus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92793
+
+207. Quiscalus mexicanus
+Quiscalus mexicanus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92792
+
+208. Galbula dea
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92791
+
+209. Catharus fuscescens
+Catharus fuscescens RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92790
+
+210. Callaeas wilsoni
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92789
+
+211. Ceuthmochares aereus
+Ceuthmochares aereus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92788
+
+212. Dromas ardeola
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92787
+
+213. Prunella himalayana
+Prunella himalayana RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92786
+
+214. Mohoua ochrocephala
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92785
+
+215. Ibidorhyncha struthersii
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92784
+
+216. Sapayoa aenigma
+Sapayoa aenigma RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92783
+
+217. Nesospiza acunhae
+Nesospiza acunhae RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92782
+
+218. Pedionomus torquatus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92781
+
+219. Falcunculus frontatus
+Falcunculus frontatus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92780
+
+220. Ifrita kowaldi
+Ifrita kowaldi RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92779
+
+221. Panurus biarmicus
+Panurus biarmicus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92778
+
+222. Oreocharis arfaki
+Oreocharis arfaki RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92777
+
+223. Malurus elegans
+Malurus elegans RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92776
+
+224. Machaerirhynchus nigripectus
+Machaerirhynchus nigripectus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92775
+
+225. Grantiella picta
+Grantiella picta RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92774
+
+226. Dasyornis broadbenti
+Dasyornis broadbenti RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92773
+
+227. Daphoenositta chrysoptera
+Daphoenositta chrysoptera RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92772
+
+228. Origma solitaria
+Origma solitaria RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92771
+
+229. Probosciger aterrimus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92770
+
+230. Chroicocephalus maculipennis
+Chroicocephalus maculipennis RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92769
+
+231. Columbina picui
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92768
+
+232. Ptilonorhynchus violaceus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92767
+
+233. Urocynchramus pylzowi
+Urocynchramus pylzowi RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92766
+
+234. Pterocles burchelli
+Pterocles burchelli RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92765
+
+235. Neopipo cinnamomea
+Neopipo cinnamomea RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92764
+
+236. Furnarius figulus
+Furnarius figulus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92763
+
+237. Erythrocercus mccallii
+Erythrocercus mccallii RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92762
+
+238. Toxostoma redivivum
+Toxostoma redivivum RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92761
+
+239. Polioptila caerulea
+Polioptila caerulea RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92760
+
+240. Burhinus bistriatus
+Burhinus bistriatus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92759
+
+241. Lanius ludovicianus
+Lanius ludovicianus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92758
+
+242. Hylia prasina
+Hylia prasina RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92757
+
+243. Platysteira castanea
+Dyaphorophyia castanea RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92756
+
+244. Pachyramphus minor
+Pachyramphus minor RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92755
+
+245. Regulus satrapa
+Regulus satrapa RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92754
+
+246. Vireo altiloquus
+Vireo altiloquus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92753
+
+247. Cephalopterus ornatus
+Cephalopterus ornatus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92752
+
+248. Glaucidium brasilianum
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92751
+
+249. Circaetus pectoralis
+Circaetus pectoralis RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92750
+
+250. Sylvietta virens
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92749
+
+
+251. Herpetotheres cachinnans
+Herpetotheres cachinnans RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92748
+
+252. Rostratula benghalensis
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92747
+
+253. Piprites chloris
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92746
+
+254. Spizaetus tyrannus
+Spizaetus tyrannus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92745
+
+255. Nothocercus julius
+Nothocercus julius RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92744
+
+256. Copsychus sechellarum
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92743
+
+257. Brachypodius atriceps
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92742
+
+258. Rhegmatorhina hoffmannsi
+Rhegmatorhina hoffmannsi overview
+Kingdom: Eukaryota
+Chromosomes: 35
+Genome ID: 92741
+
+259. Aphelocoma coerulescens
+Aphelocoma coerulescens overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92740
+
+260. Nothoprocta ornata
+Nothoprocta ornata overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92739
+
+261. Onychorhynchus coronatus
+Onychorhynchus coronatus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92738
+
+262. Centropus unirufus
+Centropus unirufus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92737
+
+263. Halcyon senegalensis
+Halcyon senegalensis RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92736
+
+264. Mionectes macconnelli
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92735
+
+265. Crotophaga sulcirostris
+Crotophaga sulcirostris RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92734
+
+266. Tachuris rubrigastra
+Tachuris rubrigastra RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92733
+
+267. Lophotis ruficrista
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92732
+
+268. Chunga burmeisteri
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92731
+
+269. Cochlearius cochlearius
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92730
+
+270. Tichodroma muraria
+Tichodroma muraria RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92711
+
+271. Picathartes gymnocephalus
+Picathartes gymnocephalus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92710
+
+272. Chloropsis hardwickii
+Chloropsis hardwickii RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92709
+
+273. Pitta sordida
+Pitta sordida RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92708
+
+274. Calyptomena viridis
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92707
+
+275. Dryoscopus gambensis
+Dryoscopus gambensis RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92706
+
+276. Todus mexicanus
+Todus mexicanus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92705
+
+277. Fregata magnificens
+Fregata magnificens RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92704
+
+278. Aegithalos caudatus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92703
+
+279. Sula dactylatra
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92702
+
+280. Piaya cayana
+Piaya cayana RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92701
+
+281. Crypturellus soui
+Crypturellus soui RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92700
+
+282. Crypturellus undulatus
+Crypturellus undulatus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 92699
+
+283. Erithacus rubecula
+Erithacus rubecula overview
+Kingdom: Eukaryota
+Chromosomes: 33
+Genome ID: 92589
+
+284. Nyctibius grandis
+Nyctibius grandis overview
+Kingdom: Eukaryota
+Chromosomes: 38
+Organelles: 1
+Genome ID: 92333
+
+285. Molothrus ater
+Molothrus ater overview
+Kingdom: Eukaryota
+Chromosomes: 34
+Genome ID: 88920
+
+286. Ardeotis arabs
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 88744
+
+287. Phalacrocorax pelagicus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 88701
+
+288. Pyrrhura perlata
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 88505
+
+289. Pyrrhura molinae
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 88502
+
+290. Pionus senilis
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 88500
+
+291. Alaudala cheleensis
+Alaudala cheleensis RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 88181
+
+292. Melanerpes aurifrons
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Organelles: 1
+Genome ID: 88071
+
+293. Eupsittula pertinax
+Eupsittula pertinax overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 88049
+
+294. Stictonetta naevosa
+
+Kingdom: Eukaryota
+Chromosomes: 34
+Organelles: 1
+Genome ID: 87939
+
+295. Nettapus auritus
+
+Kingdom: Eukaryota
+Chromosomes: 34
+Organelles: 1
+Genome ID: 87938
+
+296. Heteronetta atricapilla
+
+Kingdom: Eukaryota
+Chromosomes: 34
+Organelles: 1
+Genome ID: 87937
+
+297. Oxyura jamaicensis
+
+Kingdom: Eukaryota
+Chromosomes: 34
+Organelles: 1
+Genome ID: 87936
+
+298. Antigone vipio
+Grus vipio overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 87924
+
+299. Pterocles orientalis
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 87751
+
+300. Buteo japonicus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 87277
+
+
+301. Eudyptes sclateri
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 87083
+
+302. Eudyptes pachyrhynchus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 87077
+
+303. Eudyptes robustus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 87076
+
+304. Eudyptes chrysolophus
+Eudyptes chrysolophus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 87075
+
+305. Eudyptes moseleyi
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 87074
+
+306. Eudyptula albosignata
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 87073
+
+307. Eudyptes schlegeli
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 87072
+
+308. Eudyptula novaehollandiae
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 87071
+
+309. Eudyptes filholi
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 87067
+
+310. Ara chloropterus
+Ara chloropterus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 87042
+
+311. Lophochroa leadbeateri
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 87036
+
+312. Pyrrhura griseipectus
+Pyrrhura griseipectus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 87035
+
+313. Lorius garrulus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 87032
+
+314. Psitteuteles goldiei
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 87031
+
+315. Pyrrhura frontalis
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 87028
+
+316. Anodorhynchus hyacinthinus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 86960
+
+317. Psittacus timneh
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 86801
+
+318. Aratinga weddellii
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 86798
+
+319. Chiroxiphia lanceolata
+Chiroxiphia lanceolata overview
+Kingdom: Eukaryota
+Chromosomes: 35
+Genome ID: 86579
+
+320. Catharus ustulatus
+Catharus ustulatus overview
+Kingdom: Eukaryota
+Chromosomes: 41
+Organelles: 1
+Genome ID: 86530
+
+321. Sialia sialis
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 86526
+
+322. Tetrax tetrax
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 86500
+
+323. Bucorvus abyssinicus
+Bucorvus abyssinicus overview
+Kingdom: Eukaryota
+Chromosomes: 41
+Genome ID: 86364
+
+324. Geothlypis trichas
+Geothlypis trichas overview
+Kingdom: Eukaryota
+Chromosomes: 34
+Genome ID: 86337
+
+325. Hemignathus wilsoni
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 85800
+
+326. Corvus moneduloides
+Corvus moneduloides overview
+Kingdom: Eukaryota
+Chromosomes: 36
+Organelles: 1
+Genome ID: 85337
+
+327. Anthochaera phrygia
+Anthochaera phrygia overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 85194
+
+328. Burhinus oedicnemus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 84742
+
+329. Alca torda
+Alca torda overview
+Kingdom: Eukaryota
+Chromosomes: 26
+Organelles: 1
+Genome ID: 84534
+
+330. Lichenostomus cassidix
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 84218
+
+331. Camarhynchus parvulus
+
+Kingdom: Eukaryota
+Chromosomes: 31
+Genome ID: 84210
+
+332. Pseudorectes ferrugineus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 83615
+
+333. Zosterops pallidus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 83030
+
+334. Centrocercus minimus
+Centrocercus minimus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Organelles: 1
+Genome ID: 82414
+
+335. Streptopelia turtur
+
+Kingdom: Eukaryota
+Chromosomes: 33
+Genome ID: 81804
+
+336. Otus sunia
+Otus sunia RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 81463
+
+337. Charadrius alexandrinus
+Charadrius alexandrinus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 81153
+
+338. Rhagologus leucostigma
+Rhagologus leucostigma RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 81105
+
+339. Eolophus roseicapilla
+Eolophus roseicapilla overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 80969
+
+340. Atlantisia rogersi
+Atlantisia rogersi RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 80836
+
+341. Indicator maculatus
+Indicator maculatus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 80687
+
+342. Bubo scandiacus
+Bubo scandiacus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 80284
+
+343. Bubo blakistoni
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 76250
+
+344. Dendrocopos noguchii
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 76249
+
+345. Scolopax mira
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 76248
+
+346. Strigops habroptila
+Strigops habroptilus overview
+Kingdom: Eukaryota
+Chromosomes: 25
+Organelles: 1
+Genome ID: 75115
+
+347. Neopelma chrysocephalum
+Neopelma chrysocephalum overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 74953
+
+348. Amazona collaria
+Amazona collaria overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 74747
+
+349. Corapipo altera
+Corapipo altera overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 74745
+
+350. Pipra filicauda
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 74731
+
+
+351. Paradisaea raggiana
+Paradisaea raggiana RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 73733
+
+352. Cicinnurus regius
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 73732
+
+353. Parotia lawesii
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 73731
+
+354. Diphyllodes magnificus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 73730
+
+355. Paradisaea rubra
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 73729
+
+356. Chloebia gouldiae
+Erythrura gouldiae overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 73048
+
+357. Mixornis gularis
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 72626
+
+358. Syrmaticus mikado
+Syrmaticus mikado overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 71682
+
+359. Crypturellus cinnamomeus
+Crypturellus cinnamomeus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 71380
+
+360. Apteryx rowi
+Apteryx rowi RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 71268
+
+361. Nothoprocta perdicaria
+Comparative genomics of flightless and volant Palaeognathae
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 71267
+
+362. Chlorodrepanis virens
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 70474
+
+363. Pygoscelis papua
+Pygoscelis papua overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 70286
+
+364. Athene cunicularia
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 70232
+
+365. Empidonax traillii
+Empidonax traillii overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 69373
+
+366. Cyanistes caeruleus
+Cyanistes caeruleus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 66882
+
+367. Psittacula krameri
+Psittacula krameri overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 66582
+
+368. Acridotheres javanicus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 66469
+
+369. Sterna hirundo
+Sterna hirundo overview
+Kingdom: Eukaryota
+Chromosomes: 27
+Organelles: 1
+Genome ID: 66333
+
+370. Spheniscus mendiculus
+Spheniscus mendiculus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 66293
+
+371. Spheniscus humboldti
+Spheniscus humboldti RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 66273
+
+372. Spheniscus magellanicus
+Spheniscus magellanicus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 66248
+
+373. Anser brachyrhynchus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 62537
+
+374. Uria lomvia
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 56897
+
+375. Prunella fulvescens
+Prunella fulvescens RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 56769
+
+376. Anas zonorhyncha
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 55969
+
+377. Phalacrocorax auritus
+Nannopterum auritus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 55344
+
+378. Phalacrocorax harrisi
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 55342
+
+379. Sporophila hypoxantha
+Sporophila hypoxantha RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 55114
+
+380. Emberiza fucata
+Emberiza fucata RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 52537
+
+381. Caloenas nicobarica
+Caloenas nicobarica overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 50338
+
+382. Cyanoderma ruficeps
+Cyanoderma ruficeps overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 46112
+
+383. Phylloscopus plumbeitarsus
+
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 45124
+
+384. Falco naumanni
+Falco naumanni overview
+Kingdom: Eukaryota
+Chromosomes: 27
+Organelles: 1
+Genome ID: 44448
+
+385. Lepidothrix coronata
+Lepidothrix coronata overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 44392
+
+386. Phalacrocorax brasilianus
+Nannopterum brasilianus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 44160
+
+387. Pomatorhinus ruficollis
+Pomatorhinus ruficollis RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 44139
+
+388. Falco rusticolus
+Falco rusticolus overview
+Kingdom: Eukaryota
+Chromosomes: 24
+Organelles: 1
+Genome ID: 43830
+
+389. Callipepla squamata
+Callipepla squamata overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 43784
+
+390. Ara ararauna
+Ara ararauna overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 43783
+
+391. Notiomystis cincta
+Notiomystis cincta RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 43107
+
+392. Sturnus vulgaris
+Sturnus vulgaris overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 41647
+
+393. Calidris pugnax
+Calidris pugnax RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 41082
+
+394. Turdus rufiventris
+Turdus rufiventris overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 41049
+
+395. Upupa epops
+Upupa epops overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 41022
+
+396. Gorsachius goisagi
+Gorsachius goisagi overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 40998
+
+397. Amazona aestiva
+Amazona aestiva overview
+Kingdom: Eukaryota
+Chromosomes: 29
+Genome ID: 40915
+
+398. Eclectus roratus
+Eclectus roratus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 40152
+
+399. Myiopsitta monachus
+Myiopsitta monachus overview
+Kingdom: Eukaryota
+Chromosomes: 25
+Genome ID: 40151
+
+400. Ara militaris
+Ara militaris overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 40139
+
+
+401. Psittacus erithacus
+Psittacus erithacus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 40138
+
+402. Calidris pygmaea
+Eurynorhynchus pygmeus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 38822
+
+403. Oreotrochilus melanogaster
+Oreotrochilus melanogaster RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 38812
+
+404. Recurvirostra avosetta
+Recurvirostra avosetta overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 38602
+
+405. Corvus macrorhynchos
+Corvus macrorhynchos overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 38390
+
+406. Cygnus olor
+Cygnus olor overview
+Kingdom: Eukaryota
+Chromosomes: 36
+Organelles: 1
+Genome ID: 38225
+
+407. Cygnus cygnus
+Cygnus cygnus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 38204
+
+408. Corvus hawaiiensis
+Corvus hawaiiensis overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 36818
+
+409. Crossoptilon mantchuricum
+Crossoptilon mantchuricum overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 36346
+
+410. Phoebastria albatrus
+Phoebastria albatrus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 35898
+
+411. Guaruba guarouba
+Guaruba guarouba overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 35658
+
+412. Aratinga solstitialis
+Aratinga solstitialis overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 35646
+
+413. Ara glaucogularis
+Ara glaucogularis overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 35631
+
+414. Montifringilla adamsi
+Montifringilla adamsi RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 35446
+
+415. Onychostruthus taczanowskii
+Montifringilla taczanowskii RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Organelles: 1
+Genome ID: 35445
+
+416. Accipiter nisus
+Accipiter nisus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 34617
+
+417. Heliornis fulica
+Heliornis fulica RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 34608
+
+418. Loxia curvirostra
+Loxia curvirostra RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 34587
+
+419. Anser indicus
+Anser indicus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 34575
+
+420. Fulica atra
+Fulica atra overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 34572
+
+421. Cardinalis cardinalis
+Cardinalis cardinalis overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 34569
+
+422. Chlamydotis macqueenii
+Chlamydotis macqueenii overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 34357
+
+423. Poecile atricapillus
+Poecile atricapillus overview
+Kingdom: Eukaryota
+Chromosomes: 19
+Organelles: 1
+Genome ID: 33953
+
+424. Passer montanus
+Passer montanus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Organelles: 1
+Genome ID: 33935
+
+425. Aythya fuligula
+Aythya fuligula overview
+Kingdom: Eukaryota
+Chromosomes: 36
+Organelles: 1
+Genome ID: 33654
+
+426. Pavo cristatus
+Pavo cristatus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 33572
+
+427. Bubo bubo
+Bubo bubo overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 33522
+
+428. Chaetura pelagica
+Chaetura pelagica overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 33278
+
+429. Nestor notabilis
+Nestor notabilis overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 33272
+
+430. Haliaeetus leucocephalus
+Haliaeetus leucocephalus Organism overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 32665
+
+431. Tinamus guttatus
+Tinamus guttatus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 32250
+
+432. Tauraco erythrolophus
+Tauraco erythrolophus overview
+Kingdom: Eukaryota
+Chromosomes: 33
+Genome ID: 32247
+
+433. Phalacrocorax carbo
+Phalacrocorax carbo overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 32171
+
+434. Cuculus canorus
+Cuculus canorus overview
+Kingdom: Eukaryota
+Chromosomes: 41
+Organelles: 1
+Genome ID: 32170
+
+435. Apaloderma vittatum
+Apaloderma vittatum overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 32169
+
+436. Charadrius vociferus
+Charadrius vociferus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 32124
+
+437. Antrostomus carolinensis
+Caprimulgus carolinensis overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 32067
+
+438. Pterocles gutturalis
+Pterocles gutturalis overview
+Kingdom: Eukaryota
+Chromosomes: 36
+Organelles: 1
+Genome ID: 32063
+
+439. Aptenodytes forsteri
+Aptenodytes forsteri overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 32061
+
+440. Calypte anna
+Calypte anna overview
+Kingdom: Eukaryota
+Chromosomes: 33
+Organelles: 1
+Genome ID: 32060
+
+441. Dryobates pubescens
+Picoides pubescens overview
+Kingdom: Eukaryota
+Chromosomes: 46
+Organelles: 1
+Genome ID: 32059
+
+442. Corvus brachyrhynchos
+Corvus brachyrhynchos overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 32035
+
+443. Mesitornis unicolor
+Mesitornis unicolor overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 32034
+
+444. Acanthisitta chloris
+Acanthisitta chloris overview
+Kingdom: Eukaryota
+Chromosomes: 38
+Organelles: 1
+Genome ID: 32002
+
+445. Leptosomus discolor
+Leptosomus discolor overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 32000
+
+446. Opisthocomus hoazin
+Opisthocomus hoazin overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 31992
+
+447. Manacus vitellinus
+Manacus vitellinus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 31979
+
+448. Merops nubicus
+Merops nubicus overview
+Kingdom: Eukaryota
+Chromosomes: 36
+Organelles: 1
+Genome ID: 31978
+
+449. Haliaeetus albicilla
+Haliaeetus albicilla overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 31975
+
+450. Fulmarus glacialis
+Fulmarus glacialis Overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 31971
+
+
+451. Eurypyga helias
+Eurypyga helias overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 31970
+
+452. Colius striatus
+Colius striatus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 31969
+
+453. Cariama cristata
+Cariama cristata overview
+Kingdom: Eukaryota
+Chromosomes: 52
+Organelles: 1
+Genome ID: 31967
+
+454. Pelecanus crispus
+Pelecanus crispus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 31933
+
+455. Phaethon lepturus
+Phaethon lepturus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 31929
+
+456. Jacana jacana
+Jacana jacana RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 31829
+
+457. Egretta garzetta
+Egretta garzetta overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Organelles: 1
+Genome ID: 31706
+
+458. Sagittarius serpentarius
+Sagittarius serpentarius RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 24589
+
+459. Pyrgilauda ruficollis
+Montifringilla ruficollis RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Organelles: 1
+Genome ID: 23203
+
+460. Spheniscus demersus
+Spheniscus demersus RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 23162
+
+461. Pygoscelis antarcticus
+Pygoscelis antarcticus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 18224
+
+462. Ara macao
+Ara macao overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Organelles: 1
+Genome ID: 17770
+
+463. Passer domesticus
+Passer domesticus overview
+Kingdom: Eukaryota
+Chromosomes: 30
+Organelles: 1
+Genome ID: 17653
+
+464. Pygoscelis adeliae
+Pygoscelis adeliae overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Organelles: 1
+Genome ID: 17559
+
+465. Zonotrichia albicollis
+The white-throated sparrow is a passerine bird native to North America
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 17510
+
+466. Zosterops borbonicus
+Zosterops borbonicus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 17235
+
+467. Grus americana
+Grus americana overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 17142
+
+468. Tachycineta bicolor
+Tachycineta bicolor overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 17124
+
+469. Grus japonensis
+Grus japonensis overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 17090
+
+470. Grus monacha
+Grus monacha overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 17057
+
+471. Grus nigricollis
+Grus nigricollis overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 17056
+
+472. Alauda arvensis
+Alauda arvensis overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 16864
+
+473. Eopsaltria australis
+Eopsaltria australis overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 15658
+
+474. Agelaius phoeniceus
+Agelaius phoeniceus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 15206
+
+475. Amazona vittata
+Amazona vittata overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 15170
+
+476. Pseudopodoces humilis
+Pseudopodoces humilis overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Organelles: 1
+Genome ID: 15114
+
+477. Falco cherrug
+Falco cherrug overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 14103
+
+478. Numida meleagris
+Numida meleagris overview
+Kingdom: Eukaryota
+Chromosomes: 30
+Organelles: 1
+Genome ID: 14094
+
+479. Junco hyemalis
+Junco hyemalis overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 13397
+
+480. Geospiza fortis
+The medium ground finch of the Galapagos Islands
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 13302
+
+481. Aptenodytes patagonicus
+Aptenodytes patagonicus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 13237
+
+482. Parus major
+Parus major overview
+Kingdom: Eukaryota
+Chromosomes: 31
+Organelles: 1
+Genome ID: 12863
+
+483. Colinus virginianus
+Colinus virginianus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Organelles: 1
+Genome ID: 12817
+
+484. Sinosuthora webbiana
+Paradoxornis webbianus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 12770
+
+485. Anhinga rufa
+Anhinga rufa overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 12444
+
+486. Ficedula albicollis
+Ficedula albicollis overview
+Kingdom: Eukaryota
+Chromosomes: 30
+Organelles: 1
+Genome ID: 11872
+
+487. Serinus canaria
+The canary is a finch-like passerine bird native to the Canary Islands
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Organelles: 1
+Genome ID: 11251
+
+488. Leiothrix lutea
+A common cagebird of the babbler family native to Southern Asia
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 11249
+
+489. Melopsittacus undulatus
+The budgerigar is a small Australian parrot
+Kingdom: Eukaryota
+Chromosomes: 32
+Organelles: 1
+Genome ID: 10765
+
+490. Chrysolophus pictus
+The golden pheasant is native to China but commonly found in captivity
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 10720
+
+491. Columba livia
+Rock dove or pigeon is a bird found throughout the world and is frequently domesticated
+Kingdom: Eukaryota
+Chromosomes: 29
+Organelles: 1
+Genome ID: 10719
+
+492. Phasianus colchicus
+Phasianus colchicus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Organelles: 1
+Genome ID: 9853
+
+493. Nymphicus hollandicus
+Nymphicus hollandicus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 9750
+
+494. Apteryx owenii
+little spotted kiwi RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 9324
+
+495. Pavo muticus
+Pavo muticus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 9070
+
+496. Cygnus atratus
+Cygnus atratus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Organelles: 1
+Genome ID: 9057
+
+497. Gallirallus okinawae
+Gallirallus okinawae overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 8893
+
+498. Bambusicola thoracicus
+Bambusicola thoracicus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 8810
+
+499. Geococcyx californianus
+Geococcyx californianus
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 8791
+
+500. Agapornis roseicollis
+Agapornis roseicollis overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 8788
+
+
+501. Falco tinnunculus
+Falco tinnunculus
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 8695
+
+502. Sylvia atricapilla
+Sylvia atricapilla overview
+Kingdom: Eukaryota
+Chromosomes: 35
+Genome ID: 8421
+
+503. Rhynochetos jubatus
+Rhynochetos jubatus
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 8369
+
+504. Pandion haliaetus
+Pandion haliaetus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 8082
+
+505. Podiceps cristatus
+Podiceps cristatus overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 7975
+
+506. Nipponia nippon
+Nipponia nippon overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Organelles: 1
+Genome ID: 7967
+
+507. Eudyptes chrysocome
+Eudyptes chrysocome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 7963
+
+508. Menura novaehollandiae
+Menura novaehollandiae
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 7882
+
+509. Cathartes aura
+Cathartes aura overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 7839
+
+510. Nisaetus nipalensis
+Nisaetus nipalensis overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 7829
+
+511. Alectura lathami
+Alectura lathami
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 7661
+
+512. Gavia stellata
+Gavia stellata overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Organelles: 1
+Genome ID: 7634
+
+513. Branta canadensis
+Branta canadensis overview
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 7630
+
+514. Anseranas semipalmata
+Anseranas semipalmata
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 7372
+
+515. Eudyptula minor
+little blue penguin RefSeq Genome
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 7012
+
+516. Gymnogyps californianus
+The California condor, the largest North American bird, is an endangered species being maintained by breeding in captivity
+Kingdom: Eukaryota
+Chromosomes: 30
+Genome ID: 730
+
+517. Taeniopygia guttata
+A small songbird native to arid regions of Australia
+Kingdom: Eukaryota
+Chromosomes: 41
+Organelles: 1
+Genome ID: 367
+
+518. Rhea americana
+The greater rhea is a large flightless bird of eastern South America
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 135
+
+519. Falco peregrinus
+The peregrine falcon is a widespread bird of prey
+Kingdom: Eukaryota
+Chromosomes: 19
+Organelles: 1
+Genome ID: 132
+
+520. Vidua chalybeata
+The village indigobird is a brood parasite on another bird species.
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 130
+
+521. Ciconia boyciana
+The oriental stork is a large wading bird of Japan, China, Korea and Russia
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 129
+
+522. Casuarius casuarius
+One of three extant cassowary species; ratite birds that inhabit rainforest
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 125
+
+523. Anomalopteryx didiformis
+One of the eleven moa species that became extinct after human colonization of New Zealand
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 124
+
+524. Dromaius novaehollandiae
+The emu, a ratite, is the second largest living bird
+Kingdom: Eukaryota
+Chromosomes: 31
+Organelles: 1
+Genome ID: 123
+
+525. Arenaria interpres
+The ruddy turnstone is a migratory shorebird
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 120
+
+526. Rhea pennata
+An extant ratite that has a threatened conservation status
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 119
+
+527. Apteryx haastii
+Kiwis are flightless, nocturnal, birds native to New Zealand
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 116
+
+528. Eudromia elegans
+One of approximately 47 species of tinamou, birds evolutionary related to ratites and Galliformes
+Kingdom: Eukaryota
+
+Chromosomes:  no data
+                
+Genome ID: 114
+
+529. Coturnix japonica
+The Japanese Quail is a migratory bird of South Asia
+Kingdom: Eukaryota
+Chromosomes: 29
+Organelles: 1
+Genome ID: 113
+
+530. Meleagris gallopavo
+The turkey, an agriculturally important avian species, has a karyotype that is similar to the chicken's
+Kingdom: Eukaryota
+Chromosomes: 36
+Organelles: 1
+Genome ID: 112
+
