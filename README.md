@@ -14,4 +14,7 @@ The primary data file likely to be of interest to end user are the csv files wit
 
 File = GenBank_eBird_Clements_2019_taxonomic_reconciliation_20210120.csv
 
+**eBird/Clements 2022 (NCBI data downloaded Nov 4, 2022):**
+
+File = GenBank_eBird_Clements_2022_taxonomic_reconciliation.csv
 
