@@ -11,12 +11,15 @@ This repository includes programs used to reconcile the avian taxonomy used by N
 The primary data file likely to be of interest to end user are the csv files with information on csv file with the GenBank taxon IDs, Genbank and eBird names, number of nucletide sequences (as of the version date), and the flag indicating whether name reconcilation was necessary.
 
 **eBird/Clements 2019 (NCBI data downloaded May 3, 2020):**
+
 File = GenBank_eBird_Clements_2019_taxonomic_reconciliation_20210120.csv
 
 
 **eBird/Clements 2022 (NCBI data downloaded Nov 4, 2022):**
+
 File = GenBank_eBird_Clements_2022_taxonomic_reconciliation.csv
 
 
 **eBird/Clements 2023 (NCBI data downloaded Feb 26, 2024):**
+
 File = GenBank_eBird_Clements_2023_taxonomic_reconciliation.csv
