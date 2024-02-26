@@ -329,7 +329,7 @@ SibleyMonroeID	SibleyMonroe_Name	CommonName	InClements?
 9096	Amandava_amandava	Red Avadavat 	Clements
 9097	Amandava_formosa	Green Avadavat 	No
 9098	Amandava_subflava	Zebra Waxbill 	No
-8111	Amaurocichla_bocagii	Bocage's Longbill or S‹o TomŽ Short-tail 	No
+8111	Amaurocichla_bocagii	Bocage's Longbill or SÂ‹o TomÂŽ Short-tail 	No
 3118	Amaurolimnas_concolor	Uniform Crake	Clements
 3121	Amaurornis_akool	Brown Crake	No
 3128	Amaurornis_bicolor	Black-tailed Crake	No
@@ -1212,7 +1212,7 @@ SibleyMonroeID	SibleyMonroe_Name	CommonName	InClements?
 3776	Buteo_albicaudatus	White-tailed Hawk	No
 3774	Buteo_albigula	White-throated Hawk	Clements
 3780	Buteo_albonotatus	Zone-tailed Hawk	Clements
-3793	Buteo_archeriÊ	Archer's Buzzard	No
+3793	Buteo_archeriÃŠ	Archer's Buzzard	No
 3792	Buteo_augur	Augur Buzzard	Clements
 3791	Buteo_auguralis	Red-necked Buzzard	Clements
 3786	Buteo_brachypterus	Madagascar Buzzard	Clements
@@ -1246,7 +1246,7 @@ SibleyMonroeID	SibleyMonroe_Name	CommonName	InClements?
 9762	Buthraupis_montana	Hooded Mountain Tanager 	Clements
 9765	Buthraupis_wetmorei	Masked Mountain Tanager 	Clements
 4030	Butorides_striatus	Striated Heron 	No
-4032	Butorides_sundevalli	Gal‡pagos Heron 	No
+4032	Butorides_sundevalli	GalÂ‡pagos Heron 	No
 4031	Butorides_virescens	Green Heron 	Clements
 1560	Cacatua_alba	White Cockatoo	Clements
 1566	Cacatua_ducorpsii	Ducorps's Cockatoo	Clements
@@ -7575,7 +7575,7 @@ SibleyMonroeID	SibleyMonroe_Name	CommonName	InClements?
 4226	Pterodroma_mollis	Soft-plumaged Petrel 	Clements
 4216	Pterodroma_neglecta	Kermadec Petrel 	Clements
 4202	Pterodroma_nigripennis	Black-winged Petrel 	Clements
-4215	Pterodroma_phaeopygia	Gal‡pagos Petrel 	Clements
+4215	Pterodroma_phaeopygia	GalÂ‡pagos Petrel 	Clements
 4208	Pterodroma_pycrofti	Pycroft's Petrel 	Clements
 4199	Pterodroma_rostrata	Tahiti Petrel 	No
 4214	Pterodroma_sandwichensis	Hawaiian Petrel 	Clements
@@ -8275,7 +8275,7 @@ SibleyMonroeID	SibleyMonroe_Name	CommonName	InClements?
 7299	Sitta_formosa	Beautiful Nuthatch 	Clements
 7294	Sitta_frontalis	Velvet-fronted Nuthatch 	Clements
 7280	Sitta_himalayensis	White-tailed Nuthatch 	Clements
-7286	Sitta_krueperi	KrŸper's Nuthatch 	Clements
+7286	Sitta_krueperi	KrÂŸper's Nuthatch 	Clements
 7285	Sitta_ledanti	Kabylie Nuthatch 	Clements
 7290	Sitta_leucopsis	White-cheeked Nuthatch 	Clements
 7298	Sitta_magna	Giant Nuthatch 	Clements
@@ -8320,7 +8320,7 @@ SibleyMonroeID	SibleyMonroe_Name	CommonName	InClements?
 4174	Spheniscus_demersus	Jackass Penguin 	Clements
 4175	Spheniscus_humboldti	Humboldt Penguin 	Clements
 4176	Spheniscus_magellanicus	Magellanic Penguin 	Clements
-4177	Spheniscus_mendiculus	Gal‡pagos Penguin	Clements
+4177	Spheniscus_mendiculus	GalÂ‡pagos Penguin	Clements
 8321	Sphenocichla_humei	Wedge-billed Wren-babbler 	No
 8007	Sphenoeacus_afer	Cape Grass Warbler 	Clements
 654	Sphyrapicus_nuchalis	Red-naped Sapsucker	Clements
@@ -8592,7 +8592,7 @@ SibleyMonroeID	SibleyMonroe_Name	CommonName	InClements?
 8507	Sylvia_mystacea	Menetries's Warbler 	Clements
 8499	Sylvia_nana	Desert Warbler 	Clements
 8500	Sylvia_nisoria	Barred Warbler 	Clements
-8503	Sylvia_rueppelli	RŸppell's Warbler 	No
+8503	Sylvia_rueppelli	RÂŸppell's Warbler 	No
 8511	Sylvia_sarda	Marmora's Warbler	Clements
 8492	Sylvia_subcaeruleum	Rufous-vented Warbler 	No
 8510	Sylvia_undata	Dartford Warbler 	Clements
@@ -9647,7 +9647,7 @@ SibleyMonroeID	SibleyMonroe_Name	CommonName	InClements?
 7873	Zosterops_erythropleurus	Chestnut-flanked White-eye 	Clements
 7882	Zosterops_everetti	Everett's White-eye 	Clements
 7922	Zosterops_explorator	Layard's White-eye 	Clements
-7866	Zosterops_ficedulinus	Principe White-eye (S‹o TomŽ White-eye) 	Clements
+7866	Zosterops_ficedulinus	Principe White-eye (SÂ‹o TomÂŽ White-eye) 	Clements
 7927	Zosterops_finschii	Dusky White-eye 	Clements
 7923	Zosterops_flavifrons	Yellow-fronted White-eye 	Clements
 7886	Zosterops_flavus	Javan White-eye 	Clements
