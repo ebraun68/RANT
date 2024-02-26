@@ -18,3 +18,6 @@ File = GenBank_eBird_Clements_2019_taxonomic_reconciliation_20210120.csv
 
 File = GenBank_eBird_Clements_2022_taxonomic_reconciliation.csv
 
+**eBird/Clements 2023 (NCBI data downloaded Feb 26, 2024):**
+
+File = GenBank_eBird_Clements_2023_taxonomic_reconciliation.csv
